@@ -1,6 +1,6 @@
 # Webcam monitor overview.
 <p>
-This app is built to monitor when someone or something comes into the webcams view to send an email alert with a picture of them.
+This app is built to monitor when someone or something comes into the webcams view to send an email alert with a picture.
 
   
 </p>
